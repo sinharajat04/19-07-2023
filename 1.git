@@ -23,6 +23,7 @@ git add file2	: to track the file2
 git commit -m "abc" file2: to store the tracked file2
 git log		: to show the commits 
 git log --oneline : to show the commits on single line
+yum erase git -y :-to uninstall git
 
 HISTORY:
 
